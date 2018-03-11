@@ -1,0 +1,2 @@
+# TriC
+Local Triangle Counting
